@@ -117,4 +117,4 @@ jupyter notebook notebooks/sim_rental_kendaraan_fleet_pipeline.ipynb
 - **Portfolio Website**: [https://github.com/ArjunaFransesco/arjuna-portfolio](https://github.com/ArjunaFransesco/arjuna-portfolio)
 
 
-<!-- Last Maintenance Audit: 2026-09-26 -->
+<!-- Last Maintenance Audit: 2026-09-27 -->
